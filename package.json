@@ -1,0 +1,14 @@
+{
+  "name": "mdtobbcode",
+  "version": "1.0.0",
+  "description": "Markdown to BBCode",
+  "main": "index.js",
+  "keywords": ["mdtobbcode", "md", "bbcode", "markdown"],
+  "author": "soyuka",
+  "license": "WTFPL",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "htmlparser2": "^3.8.3",
+    "markdown-it": "^4.4.0"
+  }
+}

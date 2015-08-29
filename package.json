@@ -1,6 +1,7 @@
 {
   "name": "mdtobbcode",
   "version": "1.0.0",
+  "bin": "./index.js",
   "description": "Markdown to BBCode",
   "main": "index.js",
   "keywords": ["mdtobbcode", "md", "bbcode", "markdown"],

@@ -4,6 +4,7 @@
   "bin": "./index.js",
   "description": "Markdown to BBCode",
   "main": "index.js",
+  "repository": "https://github.com/soyuka/mdtobbcode",
   "keywords": [
     "mdtobbcode",
     "md",
@@ -11,7 +12,7 @@
     "markdown"
   ],
   "author": "soyuka",
-  "license": "WTFPL",
+  "license": "MIT",
   "dependencies": {
     "bluebird": "^2.9.34",
     "htmlparser2": "^3.8.3",
